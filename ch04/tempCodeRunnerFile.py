@@ -1,0 +1,2 @@
+
+from reference.DeepLearningFromScratch.common.gradient import numerical_gradient
